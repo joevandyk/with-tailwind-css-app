@@ -11,12 +11,12 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
-        <h1 className="text-8xl font-bold">
+        <h1 className="text-6xl font-bold">
           Welcome to Joe's Page
         </h1>
 
         <p className="mt-3 text-2xl">
-          I don't mind smoking meat.
+          I don't mind smoking meat!
         </p>
 
         <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
